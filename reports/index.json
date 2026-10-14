@@ -5,9 +5,53 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.6"
   },
   "entries": [
+    {
+      "id": "20261013-173044-a3lf",
+      "title": "R Ó N Î N",
+      "commanders": [
+        "R Ó N Î N"
+      ],
+      "guild": {
+        "id": "378A1947-BBB4-EF11-8465-02315AB41281",
+        "name": "Quagganic Order Of The Sacred",
+        "tag": "YEET"
+      },
+      "dateStart": "2026-10-13T22:30:44.000Z",
+      "dateEnd": "2026-10-13T23:18:46.073Z",
+      "dateLabel": "10/13/2026, 5:30:44 PM - 10/13/2026, 6:18:46 PM",
+      "url": "https://versamysticas.github.io/wvw_logs/?report=20261013-173044-a3lf",
+      "publishedBy": "versamysticas",
+      "summary": {
+        "borderlandsPct": 0.6666666666666666,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 14
+      }
+    },
     {
       "id": "20261006-183953-f3kk",
       "title": "Mirieta",
