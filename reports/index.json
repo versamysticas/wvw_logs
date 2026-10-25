@@ -9,6 +9,46 @@
   },
   "entries": [
     {
+      "id": "20261025-094940-asqo",
+      "title": "May Evergreen, R Ó N Î N",
+      "commanders": [
+        "May Evergreen",
+        "R Ó N Î N"
+      ],
+      "guild": {
+        "id": "378A1947-BBB4-EF11-8465-02315AB41281",
+        "name": "Quagganic Order Of The Sacred",
+        "tag": "YEET"
+      },
+      "dateStart": "2026-10-25T14:49:40.000Z",
+      "dateEnd": "2026-10-25T15:11:03.048Z",
+      "dateLabel": "10/25/2026, 9:49:40 AM - 10/25/2026, 10:11:03 AM",
+      "url": "https://versamysticas.github.io/wvw_logs/?report=20261025-094940-asqo",
+      "publishedBy": "versamysticas",
+      "summary": {
+        "borderlandsPct": 0.1111111111111111,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 48,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20261021-192954-mthr",
       "title": "R A D E E",
       "commanders": [
