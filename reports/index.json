@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.11"
   },
   "entries": [
+    {
+      "id": "20261104-171415-leti",
+      "title": "R Ó N Î N",
+      "commanders": [
+        "R Ó N Î N"
+      ],
+      "guild": {
+        "id": "378A1947-BBB4-EF11-8465-02315AB41281",
+        "name": "Quagganic Order Of The Sacred",
+        "tag": "YEET"
+      },
+      "dateStart": "2026-11-04T23:14:15.000Z",
+      "dateEnd": "2026-11-04T23:51:43.881Z",
+      "dateLabel": "11/4/2026, 5:14:15 PM - 11/4/2026, 5:51:43 PM",
+      "url": "https://versamysticas.github.io/wvw_logs/?report=20261104-171415-leti",
+      "publishedBy": "versamysticas",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 28
+      }
+    },
     {
       "id": "20261025-094940-asqo",
       "title": "May Evergreen, R Ó N Î N",
