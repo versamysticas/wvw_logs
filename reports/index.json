@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.11"
+    "version": "3.23.0"
   },
   "entries": [
+    {
+      "id": "20261110-171639-usdj",
+      "title": "R Ó N Î N",
+      "commanders": [
+        "R Ó N Î N"
+      ],
+      "guild": {
+        "id": "378A1947-BBB4-EF11-8465-02315AB41281",
+        "name": "Quagganic Order Of The Sacred",
+        "tag": "YEET"
+      },
+      "dateStart": "2026-11-10T23:16:39.000Z",
+      "dateEnd": "2026-11-10T23:45:52.573Z",
+      "dateLabel": "11/10/2026, 5:16:39 PM - 11/10/2026, 5:45:52 PM",
+      "url": "https://versamysticas.github.io/wvw_logs/?report=20261110-171639-usdj",
+      "publishedBy": "versamysticas",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 37,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 13
+      }
+    },
     {
       "id": "20261104-171415-leti",
       "title": "R Ó N Î N",
